@@ -1,1 +1,1 @@
-Hi Guys! This is a dummy file created in development branch. A small mod.
+Hi Guys! This is a dummy file created in development branch. A small modification.
